@@ -1,0 +1,10 @@
+Java is a programming language
+Python is used for AI
+Machine learning is part of AI
+Vector database is used in semantic search
+RAG means retrieval augmented generation
+Endee is a vector database
+Artificial intelligence is future
+Deep learning is subset of machine learning
+Chatbot uses NLP
+Semantic search uses embeddings
